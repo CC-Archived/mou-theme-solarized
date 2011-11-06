@@ -20,7 +20,7 @@ To contribute, file bug reports or issues, please visit the [main Solarized GitH
 
 ## Screenshot
 
-![Mou icon](screenshot.png)
+![Mou icon](https://github.com/CodeCatalyst/mou-theme-solarized/raw/master/screenshot.png)
 
 ## License
 
