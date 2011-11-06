@@ -4,15 +4,11 @@ This is a theme for the [Mou](http://mouapp.com/), a Markdown editor for Mac OS 
 
 See the [Solarized homepage](http://ethanschoonover.com/solarized) homepage for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
 
----
-
 ## Downloads
 
 The latest version of the Solarized theme for Mou can be found at the [GitHub repository for this theme](https://github.com/CodeCatalyst/mou-theme-solarized).
 
 To contribute, file bug reports or issues, please visit the [main Solarized GitHub repository](https://github.com/altercation/solarized).
-
----
 
 ## Installation
 
@@ -21,8 +17,6 @@ To contribute, file bug reports or issues, please visit the [main Solarized GitH
 	`~/Library/Library/Application Support/Mou/Theme`
 
 2. Open Mou's `Preferences` and navigate to the `Themes` tab.  Select one of the Solarized themes in the `Use Theme:` dropdown.  If Mou was open when you copied the theme files, you may need to hit the `Reload` button.
-
----
 
 ## License
 
