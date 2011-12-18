@@ -14,7 +14,7 @@ To contribute, file bug reports or issues, please visit the [main Solarized GitH
 
 1. Copy the *.txt files from this directory to:
 
-	`~/Library/Library/Application Support/Mou/Theme`
+	`~/Library/Application Support/Mou/Themes`
 
 2. Open Mou's `Preferences` and navigate to the `Themes` tab.  Select one of the Solarized themes in the `Use Theme:` dropdown.  If Mou was open when you copied the theme files, you may need to hit the `Reload` button.
 
