@@ -1,6 +1,6 @@
 # Solarized Theme for Mou
 
-This is a theme for the [Mou](http://mouapp.com/), a Markdown editor for Mac OS X, that provides syntax highlighting using Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized) color scheme, contributed by [John Yanarella](http://twitter.com/johnyanarella).
+This is a theme for [Mou](http://mouapp.com/), a Markdown editor for Mac OS X, that provides syntax highlighting using Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized) color scheme, contributed by [John Yanarella](http://twitter.com/johnyanarella).
 
 See the [Solarized homepage](http://ethanschoonover.com/solarized) homepage for screenshots, details and colorscheme versions for Vim, Mutt, popular terminal emulators and other applications.
 
