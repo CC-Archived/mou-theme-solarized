@@ -36,9 +36,16 @@ p {
 strong {
   font-weight: bold;
 }
-ol, ul {
+ol,
+ul {
   margin-left: 2em;
   margin-bottom: 20px;
+}
+ul ul,
+ol ol,
+ul ol,
+ol ul {
+  margin-top: 10px;
 }
 li {
   margin-bottom: 10px;
@@ -93,7 +100,8 @@ p img {
 pre {
   margin-bottom: 20px;
 }
-pre, code {
+pre,
+code {
   font-family: monospace;
 }
 pre {
@@ -131,7 +139,9 @@ html h6 {
   color: #586e75;
   border-color: #657b83;
 }
-html a, html a:active, html a:visited {
+html a,
+html a:active,
+html a:visited {
   color: #586e75;
 }
 html a:hover {
