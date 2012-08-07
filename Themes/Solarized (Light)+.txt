@@ -81,7 +81,7 @@ HTML_ENTITY
 foreground: 93a1a1
 
 COMMENT
-foreground: eee8d5
+foreground: 93a1a1
 
 BLOCKQUOTE
 foreground: 657b83
