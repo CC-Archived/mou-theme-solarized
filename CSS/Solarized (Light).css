@@ -25,9 +25,7 @@ html * {
   color-profile: sRGB;
 }
 body {
-  min-width: 32em;
-  max-width: 52em;
-  margin: 40px 70px;
+  margin: 0 1em 0 1em;
 }
 p {
   font-weight: lighter;
