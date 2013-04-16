@@ -175,3 +175,12 @@ html h5,
 html h6 {
   color: #b58900;
 }
+
+@media print {
+  body {
+    margin: 0;
+  }
+  * {
+    color: #000 !important;
+  }
+}
