@@ -115,9 +115,7 @@ html * {
 }
 
 body {
-	min-width: 32em;
-	max-width: 52em;
-	margin: @vmargin * 2 @hmargin;
+	margin: 0 1em 0 1em;
 }
 
 p {
@@ -188,6 +186,17 @@ pre, code {
 pre {
 	white-space: pre; white-space: pre-wrap; word-wrap: break-word;
 	padding: 15px;
+}
+
+blockquote {
+	border-left: 4px solid;
+	padding: 0 15px;
+}
+blockquote > :first-child {
+	margin-top: 0;
+}
+blockquote > :last-child {
+	margin-bottom: 15px;
 }
 
 h1 {

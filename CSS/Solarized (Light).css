@@ -110,11 +110,14 @@ pre {
 }
 blockquote {
   border-left: 4px solid;
-  padding: 0 15px; }
-  blockquote > :first-child {
-    margin-top: 0; }
-  blockquote > :last-child {
-    margin-bottom: 15px; }
+  padding: 0 15px;
+}
+blockquote > :first-child {
+  margin-top: 0;
+}
+blockquote > :last-child {
+  margin-bottom: 15px;
+}
 h1 {
   text-transform: uppercase;
   font-weight: bold;
