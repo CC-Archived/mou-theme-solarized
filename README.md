@@ -12,13 +12,19 @@ To contribute, file bug reports or issues, please visit the [main Solarized GitH
 
 ## Installation
 
-1. Copy the `*.txt` files from the `Themes` directory to:
+1. Run `install.sh` like so:
 
-	`~/Library/Application\ Support/Mou/Themes`
+        sh install.sh
 
-2. Copy the `*.css` files from the `CSS` directory to:
+    or
 
-	`~/Library/Application\ Support/Mou/CSS`
+    a. Copy the `*.txt` files from the `Themes` directory to:
+
+        ~/Library/Application\ Support/Mou/Themes
+
+    b. Copy the `*.css` files from the `CSS` directory to:
+
+        ~/Library/Application\ Support/Mou/CSS
 
 3. Open Mou's `Preferences` and navigate to the `Themes` tab.  Select one of the Solarized themes in the `Use Theme:` dropdown.  If Mou was open when you copied the theme files, you may need to hit the `Reload` button.
 
