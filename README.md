@@ -32,6 +32,16 @@ To contribute, file bug reports or issues, please visit the [main Solarized GitH
 
 4. Open Mou's `Preferences` and navigate to the `CSS` tab.  Select one of the Solarized themes in the `Use CSS:` dropdown.  If Mou was open when you copied the CSS files, you may need to hit the `Reload` button.
 
+## Installation (Command Line)
+
+Run the following three commands to copy the appropriate `Theme` and `CSS` files.
+
+```bash
+cd path/to/mou-theme-solarized # adjust as necessary
+cp Themes/*.txt ~/Library/Application\ Support/Mou/Themes
+cp CSS/*.css ~/Library/Application\ Support/Mou/CSS
+```
+
 ## Screenshot
 
 ![Screenshot](screenshot.png)
