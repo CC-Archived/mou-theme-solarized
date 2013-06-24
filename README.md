@@ -12,19 +12,19 @@ To contribute, file bug reports or issues, please visit the [main Solarized GitH
 
 ## Installation
 
-1. Copy the Theme and CSS files:
+* Copy the Theme and CSS files:
 
 	* Run the installation script: <pre>sh install.sh</pre>
 
 	* **or**, use Finder (Go > Go to Folder... &#8679;&#8984;G) and
 
-		a. Copy the `*.txt` files from the `Themes` directory to: <pre>~/Library/Application Support/Mou/Themes</pre>
+		* Copy the `*.txt` files from the `Themes` directory to: <pre>~/Library/Application Support/Mou/Themes</pre>
 
-		b. Copy the `*.css` files from the `CSS` directory to: <pre>~/Library/Application Support/Mou/CSS</pre>
+		* Copy the `*.css` files from the `CSS` directory to: <pre>~/Library/Application Support/Mou/CSS</pre>
 
-2. Open Mou's `Preferences` and navigate to the `Themes` tab.  Select one of the Solarized themes in the `Use Theme:` dropdown.  If Mou was open when you copied the theme files, you may need to hit the `Reload` button.
+* Open Mou's `Preferences` and navigate to the `Themes` tab.  Select one of the Solarized themes in the `Use Theme:` dropdown.  If Mou was open when you copied the theme files, you may need to hit the `Reload` button.
 
-3. Open Mou's `Preferences` and navigate to the `CSS` tab.  Select one of the Solarized themes in the `Use CSS:` dropdown.  If Mou was open when you copied the CSS files, you may need to hit the `Reload` button.
+* Open Mou's `Preferences` and navigate to the `CSS` tab.  Select one of the Solarized themes in the `Use CSS:` dropdown.  If Mou was open when you copied the CSS files, you may need to hit the `Reload` button.
 
 ## Screenshot
 
